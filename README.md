@@ -82,5 +82,5 @@ wi​: Son los pesos ajustados durante el entrenamiento para minimizar el error.
 b: El sesgo que permite desplazar la función de activación.
 
 
-## Autor Oscar Efrén Jiménez García 
+## Autor: Oscar Efrén Jiménez García 
 **Ingeniería en Computación FES Aragón, UNAM**
